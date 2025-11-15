@@ -1,0 +1,17 @@
+{
+  "name": "nexussync-lms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.19.0",
+  "dependencies": {
+    "pg": "^8.16.3",
+    "typeorm": "^0.3.27"
+  }
+}
